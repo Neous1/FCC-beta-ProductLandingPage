@@ -1,0 +1,57 @@
+BetaFCC Product Landing Page
+Project Page
+
+Standard Requirements
+Create a project landing page for your company, project, or group. (create one) CSS frameworks such as Bootstrap or foundation are not required however the styling of your page will be graded for quality. The page will be a single page site where the navbar elements jump to that part of the page.
+
+Requirements
+Use page reader friendly tags.
+Required tags:
+    Header
+    Footer
+    Article
+Elements:
+    The logo can either be text or an img
+    At least three sections for the nav bar
+    A video element
+    At least 1 image (not including logo)
+    Form element
+    Form requirements:
+        Email
+        Email validation
+        Submit button
+        Redirects to https://www.freecodecamp.com/email-submit on submit
+Navbar should remain at the top of the page
+At least one media query should be used.
+
+Additional Challenges:
+    Create a second page for the form submission
+        Page layout should reflect the previous page’s style for cohesion
+        Should include link back to main page
+        Continued in Hacker level challenge
+    Create a 4th section
+        The fourth section should include additional information about your item
+        Section should work with the rest of the page and should not seem forced
+    Flexbox
+        Use flexbox in a section to create a unique layout of your choice.
+
+Hacker challenge
+    Email static page
+        Include nav bar and footer
+        Nav bar should link back to main page and the section they clicked on
+        Use css to ensure the footer is at the bottom of the page
+Any styling between the header and footer should take up all remaining space
+Store Responces
+    Form submission should be recorded
+    Try to store them in a different way than the last project if possible
+Page reader only
+    Add an element to the page that only the page reader can see. This item should say something relevant about your product in relation to those with disabilities.
+
+
+Yvon's Photos 
+
+
+Create a landing page for Yvon's Photos Services
+
+need Bootstrap
+
