@@ -6,3 +6,42 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
+
+/*.container{
+    display: flex;
+}*/
+
+.packages{
+    display: flex;
+    flex-wrap: column wrap;
+    justify-content: space-around;
+    /*width: 1200px;*/
+    height: 300px;
+
+}
+.box{
+    border: 1px solid lightgray ;
+}
+
+.pack1{
+    flex: 3;
+    /*height: 350px;
+    width: 200px;*/
+    margin: 2em;
+
+}
+
+.pack2{
+    flex: 3;
+    /*height: 350px;
+    width: 200px;*/
+        margin: 2em;
+
+}
+
+.pack3{
+    flex: 3;
+    /*height: 350px;
+    width: 200px;*/
+        margin: 2em;
+}
